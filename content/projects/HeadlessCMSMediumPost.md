@@ -1,15 +1,17 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
+date: '2025-01-13'
+title: 'Designing My Notion Workspace: The Ultimate Productivity Hub'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: 'https://www.notion.so'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Notion API
+  - Custom Templates
+  - Automation
+  - Aesthetic Layouts
+company: 'Personal Project'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+<strong>**_Currently Under Construction_**</strong>
+
+<p>Explore how I transformed my Notion workspace into a personalized productivity hub using custom templates, automation, and a gamified design-first approach.</p>

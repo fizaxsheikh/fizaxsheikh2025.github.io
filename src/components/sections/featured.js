@@ -93,6 +93,7 @@ const StyledProject = styled.li`
 
   .project-content {
     position: relative;
+    z-index: 2;
     grid-column: 1 / 7;
     grid-row: 1 / -1;
 
@@ -348,7 +349,7 @@ const Featured = () => {
   return (
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
-        Some Things I’ve Built
+        Latest Projects
       </h2>
 
       <StyledProjectsGrid>
