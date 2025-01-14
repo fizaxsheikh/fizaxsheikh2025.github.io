@@ -133,10 +133,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I’m <strong>Fiza Sheikh</strong>, senior at UCLA majoring in Economics, with a vision
-              as dynamic as my journey. Shaped by resilience and a commitment to meaningful impact,
-              I’ve found my passion at the intersection of technology, consulting, and law. My
-              ultimate goal?
+              I’m <strong>Fiza Sheikh</strong>, a senior at UCLA majoring in Economics, with a
+              vision as dynamic as my journey. Shaped by resilience and a commitment to meaningful
+              impact, I’ve found my passion at the intersection of technology, consulting, and law.
+              My ultimate goal?
             </p>
             <p>
               <strong>

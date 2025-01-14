@@ -2,8 +2,6 @@
 date: '4'
 title: 'Customer Sentiment Analysis for Sonic Drive-In Restaurants'
 cover: './sonic.png'
-external: 'https://ucladatares.medium.com/navigating-the-digital-battlefield-an-in-depth-analysis-of-cybersecurity-challenges-innovations-7d34be32e642'
-cta: 'https://ucladatares.medium.com/navigating-the-digital-battlefield-an-in-depth-analysis-of-cybersecurity-challenges-innovations-7d34be32e642'
 tech:
   - Python
   - Yelp Fusion API
