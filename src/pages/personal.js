@@ -25,10 +25,10 @@ const StyledPersonalPage = styled.section`
 const PersonalPage = () => (
   <StyledPersonalPage>
     <h2>You just couldn’t resist clicking, could you?</h2>
-    <h1>Welcome to My Personal Page :)</h1>
+    <h1>Welcome to Fiza's Personal Page :)</h1>
     <p>
-      Right now, I'm a work in progress, but soon, you'll be able to learn about my hobbies,
-      interests, and everything that makes me tick outside of work!
+      Right now, I'm a work in progress, but soon, you'll be able to learn about all of Fiza's
+      hobbies, interests, and everything that makes them tick outside of work!
     </p>
   </StyledPersonalPage>
 );

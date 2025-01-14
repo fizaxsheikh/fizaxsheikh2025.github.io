@@ -2,8 +2,8 @@
 date: '2015-12-21'
 title: 'Office of the President Intern'
 company: 'USAC | UCLA '
-location: 'Boston, MA'
-range: 'July - December 2015'
+location: 'Los Angeles, CA'
+range: 'Apr 2024 - Jun 2024'
 url: 'https://www.usac.ucla.edu/'
 ---
 
