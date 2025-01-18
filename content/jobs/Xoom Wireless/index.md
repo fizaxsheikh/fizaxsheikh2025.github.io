@@ -4,7 +4,6 @@ title: 'Operations and Client Relations Assistant Manager '
 company: 'Xoom Wireless'
 location: 'Oklahoma City, OK'
 range: 'Aug 2017 - Jun 2023'
-url: 'https://younginvincibles.org/introducing-yi-wests-fall-2023-young-advocates/'
 ---
 
 - Collaborated with cross-functional teams to ensure the smooth running of day-to-day operations, assisted in marketing and advertising strategies to drive business growth, supported upper management in strategic decisions, and eﬀectively managed client relationships.

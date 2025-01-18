@@ -9,4 +9,4 @@ tech:
   - Node.js
 ---
 
-An app designed to empowers women with real-time safety tools and a supportive community. Features include an emergency button, ride-share tracking, fake call deterrents, Safe Walk pairing, and geo-fencing alerts. Sanctuary ensures security is available to all.
+An app designed to empower women with real-time safety tools and a supportive community. Features include an emergency button, ride-share tracking, fake call deterrents, Safe Walk pairing, and geo-fencing alerts. Sanctuary ensures security is available to all.
